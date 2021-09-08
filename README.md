@@ -9,10 +9,11 @@ there's nothing here
 ## My activities
 
 <a href="https://github.com/eduardoschmitt/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoschmitt&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoschmitt&text_color=fff&amp&title_color=f21170&amp&show_icons=true&icon_color=914BAF&bg_color=0D1117&hide_border=true" />
 </a>
+
 <a href="https://github.com/eduardoschmitt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoschmitt&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoschmitt&text_color=fff&amp&title_color=f21170&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 <!--
