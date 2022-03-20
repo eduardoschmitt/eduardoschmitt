@@ -8,6 +8,8 @@ there's nothing here
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ## My activities
 
