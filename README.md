@@ -9,6 +9,7 @@ there's nothing here
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## My activities
