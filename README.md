@@ -1,4 +1,4 @@
-💻 Computer Science student at UFFS.
+💻 Computer Science student at UNESC.
 
 there's nothing here
 
