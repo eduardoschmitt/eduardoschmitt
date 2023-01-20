@@ -1,6 +1,11 @@
-💻 Computer Science student at UNESC.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CE1162&width=435&lines=Hi%2C+I'm+Eduardo+Schmitt!)](https://git.io/typing-svg)
 
-there's nothing here
+```javascript
+const du = {
+  development: [Javascript, HTML, CSS, React JS, React Native, C, Python, SQL],
+  skills: ["Web Developer", "Web Design", "Senior Sistemas", "Database"],
+}
+```
 
 ### What I'm currently learning:
 
@@ -24,4 +29,6 @@ there's nothing here
 
 <!--
 Credits: [Pepyn0](https://github.com/Pepyn0)
+Credits Code: https://github.com/Thaiane/Thaiane/blob/master/README.md
+Credits Typing: https://github.com/DenverCoder1/readme-typing-svg
 -->
