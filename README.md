@@ -17,7 +17,7 @@ const du = {
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 -->
 
-## My activities
+<!-- ## My activities -->
 
 <a href="https://github.com/eduardoschmitt/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoschmitt&text_color=fff&amp&title_color=f21170&amp&show_icons=true&icon_color=914BAF&bg_color=0D1117&hide_border=true" />
