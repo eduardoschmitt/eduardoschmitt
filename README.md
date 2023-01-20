@@ -16,9 +16,12 @@ const du = {
 ```
 
 
+<!-- (Não vou usar por enquanto)
+<a target="_blank" href="https://br.linkedin.com/in/eduardocarniel"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+-->
 
 <!-- 
-### What I'm currently learning:
+### What I'm currently learning: (Não vou usar por enquanto)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +31,7 @@ const du = {
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 -->
 
-<!-- ## My activities
+<!-- ## My activities (Não vou usar por enquanto)
 
 <a href="https://github.com/eduardoschmitt/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoschmitt&text_color=fff&amp&title_color=f21170&amp&show_icons=true&icon_color=914BAF&bg_color=0D1117&hide_border=true" />
