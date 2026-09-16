@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/snoopy.webp" width="760" alt="Snoopy drawing" />
+<img src="./assets/snp.webp" width="360" alt="Snoopy drawing" />
 
 # Eduardo Schmitt
 
@@ -14,7 +14,7 @@ I turn ideas and business needs into systems, dashboards, BI solutions and integ
 
 <br>
 
-## `about_me.txt`
+## `about_me`
 
 ```text
 I'm a Full Stack Developer and ERP Senior Analyst.
@@ -66,7 +66,7 @@ B.Sc. in Computer Science — UNESC.
 
 <br>
 
-## `currently_building.exe`
+## `currently_building/`
 
 ```text
 > Web applications
@@ -94,10 +94,44 @@ B.Sc. in Computer Science — UNESC.
 
 <br>
 
-## `contact.url`
+## `things_i_like/`
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" valign="bottom" width="120">
+      <img src="./assets/snoopy-gremio.webp" width="156" alt="Grêmio"/>
+      <br>
+      <sub><b>Grêmio FBPA</b></sub>
+    </td>
+    <td align="center" valign="bottom" width="120">
+      <img src="./assets/snoopy-vegeta.webp" width="156" alt="Dragon Ball"/>
+      <br>
+      <sub><b>Dragon Ball</b></sub>
+    </td>
+    <td align="center" valign="bottom" width="120">
+      <img src="./assets/snoopy-gamer.webp" width="156" alt="Retro Games"/>
+      <br>
+      <sub><b>Retro Games</b></sub>
+    </td>
+    <td align="center" valign="bottom" width="120">
+      <img src="./assets/snoopy-car.webp" width="156" alt="Cars"/>
+      <br>
+      <sub><b>Cars</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+## `contact/`
 
 <div align="center">
 
 [LinkedIn](https://br.linkedin.com/in/eduardocarniel)
 
 </div>
+
